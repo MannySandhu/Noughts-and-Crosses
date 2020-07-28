@@ -1,3 +1,3 @@
 # Noughts-and-Crosses
--A simple noughts and crosses game with an AI written in Java.
--A year 1 project to develop a noughts and crosses game played agains the computer - implemented a simple AI.
+- Java8, Swing
+- A year 1 project to develop a noughts and crosses game played agains the a simple AI
